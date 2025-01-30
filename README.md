@@ -7,10 +7,10 @@ You may see me working with a variety of technologies
 
 ![Stack](https://skillicons.dev/icons?i=js,nodejs,postgres,lua,python,npm,c#)
 
-#steam workshop  
+## Steam Workshop  
 My [public mods](https://steamcommunity.com/id/MrSuperjolly/myworkshopfiles/?p=1) can be found, on the steam workshop but you'd need to subscribe install tabletop simulator to interact with them
 
-#other projects
+## other projects  
 You can see a demonstration of my coding skills on some public projects I keep on my github
  -[NC News](https://github.com/patrickfoulger1/nc_news) A RESTful api built from the ground up that interacts with a psql database stroing users, articles and comments hosted ready to be a backend for a future blog site
 
