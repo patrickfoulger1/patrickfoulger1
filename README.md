@@ -11,7 +11,7 @@ You may see me working with a variety of technologies
 My [public mods](https://steamcommunity.com/id/MrSuperjolly/myworkshopfiles/?p=1) can be found, on the steam workshop but you'd need to subscribe install tabletop simulator to interact with them
 
 ## Other Projects  
-You can see a demonstration of my coding skills on some public projects I keep on my github
+You can see a demonstration of my coding skills on some public projects I keep on my github  
  -[NC News](https://github.com/patrickfoulger1/nc_news) A RESTful api built from the ground up that interacts with a psql database stroing users, articles and comments hosted ready to be a backend for a future blog site
 
 
