@@ -12,7 +12,7 @@ My [public mods](https://steamcommunity.com/id/MrSuperjolly/myworkshopfiles/?p=1
 
 ## Other Projects  
 You can see a demonstration of my coding skills on some public projects I keep on my github  
- -[NC News](https://github.com/patrickfoulger1/nc_news) A RESTful api built from the ground up that interacts with a psql database stroing users, articles and comments hosted ready to be a backend for a future blog site
+ - [NC News](https://github.com/patrickfoulger1/nc_news) A RESTful api built from the ground up that interacts with a psql database stroing users, articles and comments hosted ready to be a backend for a future blog site
 
 
 - 📫 Send me an email -> patrickfoulger1@gmail.com
