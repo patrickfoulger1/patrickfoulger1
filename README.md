@@ -9,6 +9,13 @@ You may see me working with a variety of technologies
 
 ## Steam Workshop  
 My [public mods](https://steamcommunity.com/id/MrSuperjolly/myworkshopfiles/?p=1) can be found, on the steam workshop but you'd need to subscribe install tabletop simulator to interact with them
+A couple of my clients I've helped design and script mods for their games include
+- https://oathtoembers.com/
+- https://www.kickstarter.com/projects/tokenterrors/token-terrors-battlegrounds
+- https://www.kickstarter.com/projects/mantisfalls/mantis-falls-a-game-of-trust
+
+Every project I've made in tabletop simulator required a strong fundamental understanding of Lua, and Object Oriented Programming. I also had to make UI, UX decisions for a lot of my projects and work closely with my clients to develop the experience they wanted to recreate.
+
 
 ## Other Projects  
 You can see a demonstration of my coding skills on some public projects I keep on my github  
