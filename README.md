@@ -1,5 +1,4 @@
-##Welcome
-
+##Welcome  
 👋 Hey, I’m Patrick, a Software Engineer and Board Game Designer  
 🎲 I develop mods for TTS, creating and designing digital prototypes of boardgames for board game developers 🎲  
 🖥️ I'm working on my full stack web development skills at the moment working full time in a fulltime bootcamp 🖥️  
