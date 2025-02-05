@@ -5,7 +5,7 @@
 
 You may see me working with a variety of technologies
 
-![Stack](https://skillicons.dev/icons?i=js,nodejs,postgres,lua,python,npm,c#)
+![Stack](https://skillicons.dev/icons?i=js,nodejs,postgres,lua,python,npm,c#,react)
 
 ## Steam Workshop  
 My [public mods](https://steamcommunity.com/id/MrSuperjolly/myworkshopfiles/?p=1) can be found, on the steam workshop but you'd need to subscribe install tabletop simulator to interact with them
