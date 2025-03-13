@@ -5,7 +5,7 @@
 
 You may see me working with a variety of technologies
 
-![Stack](https://skillicons.dev/icons?i=js,nodejs,postgres,lua,python,npm,c#,react)
+![Stack](https://skillicons.dev/icons?i=js,ts,nodejs,postgres,lua,python,npm,c#,react)
 
 ## Steam Workshop  
 My [public mods](https://steamcommunity.com/id/MrSuperjolly/myworkshopfiles/?p=1) can be found, on the steam workshop but you'd need to subscribe install tabletop simulator to interact with them
@@ -19,6 +19,7 @@ Every project I've made in tabletop simulator required a strong fundamental unde
 
 ## Other Projects  
 You can see a demonstration of my coding skills on some public projects I keep on my github  
+- [Hedgehog](https://github.com/patrickfoulger1/[nc_news](https://github.com/patrickfoulger1/hedgehog-finances)) A fullstack progresive web app built with Next.js, typescript, prisma, firebase messaging, Next Auth tailwind and MongoDB. Make an account, Search for stocks and news, add them to a watch list, set up notification alerts to get up to date info about stock prices in the market.
  - [NC News](https://github.com/patrickfoulger1/nc_news) A RESTful api built from the ground up that interacts with a psql database stroing users, articles and comments hosted ready to be a backend for a future news site
  - [News Spin](https://github.com/patrickfoulger1/nc_news_frontend) A React Router + Tailwind app built as a front end for my NC News database and api that lets users explore through different articles, and leave likes and comments.
 
